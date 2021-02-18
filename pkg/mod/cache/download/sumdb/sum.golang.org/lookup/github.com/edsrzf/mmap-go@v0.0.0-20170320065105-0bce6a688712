@@ -3,7 +3,7 @@ github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712 h1:aaQcKT9WumO6JEJc
 github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaBNrHW5M=
 
 go.sum database tree
-2839094
-KVVpa7ezi+asQb+jHuk273nMtsSg8VSOfZKDtNywMrE=
+2860951
+9VfMbENuJ7VPQO8UOxpRn8Ry2Pm458xJ6yZHDyjKsR0=
 
-— sum.golang.org Az3grs83/ouk02CLNq6e2I4qElrAcEijlpBJ370KoywBnsKGLHck7SVGT/P+lvRPnQybOZsE1oaksx8qGx1Q1sMMqA0=
+— sum.golang.org Az3grkDxN5v/l6taxLf8xkETMOzfANrwr6yExqZXvV6b/p+StEzl3NuXJvvqQo4q73Np397U6417AjIXAHLAPiiWgg4=

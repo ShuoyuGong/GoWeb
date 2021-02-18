@@ -3,7 +3,7 @@ github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gG
 github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 
 go.sum database tree
-2832249
-bNorREj8iA4oGySJ4vq4b3NVq7Agh8mYhITXCVNLFx8=
+2847811
+uJ7vvm2JykzgsK0vpeukmxyBepz0jc/NbpfY9Qr9MK8=
 
-— sum.golang.org Az3grng9vpJi1DNnQQSEvwuCtu2bopgG0vomI1rZSXPqT3K6x4IqPKj8sDpAu86iVilc8TxxoQywSZTJGRzWh5M9Wgg=
+— sum.golang.org Az3grlCfu0t2BYUgXsnTwoNFOxJ30T0vxSSUWlr9M9jMgs8iYKBXHDthM4AxYM56srtnCoA1HZYcfEUeeQPnv6pBXgU=

@@ -3,7 +3,7 @@ github.com/coreos/go-semver v0.3.0 h1:wkHLiw0WNATZnSG7epLsujiMCgPAc9xhjJ4tgnAxmf
 github.com/coreos/go-semver v0.3.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
 
 go.sum database tree
-2844369
-vGBuwJpEdKVWF95y6TOv81pbwydU1D0oOjOqlB72VL8=
+2855362
+TNUcqO6yYbb58go43zNeDmnW4r0cVMjbi9qc+8ekW1o=
 
-— sum.golang.org Az3grryuPKGs7ueIDApsPUzCy2rRWWqSpaTPLpDsRJdrtaZJjDdIyIMyzvSiahdyFEk3dsX7e3ivPT+2jwjMvSh6Ww4=
+— sum.golang.org Az3grmrUShKGHSDXNrJh/ANTB6OZnYsAoe4G8nDGbZIEGJ5jpJf41+gN6S90SvGJ6/nwU3EtKqZ7Y9bS8ElnvpDAqA0=

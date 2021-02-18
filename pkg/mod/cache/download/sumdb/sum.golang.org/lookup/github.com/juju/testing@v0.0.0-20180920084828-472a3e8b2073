@@ -3,7 +3,7 @@ github.com/juju/testing v0.0.0-20180920084828-472a3e8b2073 h1:WQM1NildKThwdP7qWr
 github.com/juju/testing v0.0.0-20180920084828-472a3e8b2073/go.mod h1:63prj8cnj0tU0S9OHjGJn+b1h0ZghCndfnbQolrYTwA=
 
 go.sum database tree
-2839577
-e4YVbjKrH4dGU0dVUNG81E3DG5IHcA4pDtlwCIuu+m0=
+2870495
+6r3KvyNp80vPyDXMrbhLbB9+Pl/Fnhk3NBsAhYfmjbM=
 
-— sum.golang.org Az3grkXQFFwGjEfSwc8U5OvApDGU0vyC6PGdx+FvqqIB8iAI8EYOmA1OzcfUTOTPG0BoV7Q2zTIutLObKInOEystpwI=
+— sum.golang.org Az3grsP8UqpnQQVFYAxol2D3w1LKWL6l0dIfLKlepxRw3z7pdBUjMe9LxcmTiEEFes5NJSraayMCBlvVvr3cUioj6gc=

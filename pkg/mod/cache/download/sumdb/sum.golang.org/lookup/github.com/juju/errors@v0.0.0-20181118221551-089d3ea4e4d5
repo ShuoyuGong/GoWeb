@@ -3,7 +3,7 @@ github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5 h1:rhqTjzJlm7EbkELJDKM
 github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5/go.mod h1:W54LbzXuIE0boCoNJfwqpmkKJ1O4TCTZMetAt6jGk7Q=
 
 go.sum database tree
-2844305
-W7aP+fSFR5spN1rSTHiqnQtzrvYbmEpRCkPuPu57jIM=
+2870495
+6r3KvyNp80vPyDXMrbhLbB9+Pl/Fnhk3NBsAhYfmjbM=
 
-— sum.golang.org Az3grjQGLTNQdRgdURopYIBV83lp9VUlyRm0zRgxnKOUczOHTQFh5b03/lAtnBVIIOFMpcIwXY7FGUzYNOEKzwBjeAk=
+— sum.golang.org Az3grsP8UqpnQQVFYAxol2D3w1LKWL6l0dIfLKlepxRw3z7pdBUjMe9LxcmTiEEFes5NJSraayMCBlvVvr3cUioj6gc=

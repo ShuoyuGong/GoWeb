@@ -3,7 +3,7 @@ github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737 h1:rRISKWyXfVx
 github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737/go.mod h1:PmM6Mmwb0LSuEubjR8N7PtNe1KxZLtOUHtbeikc5h60=
 
 go.sum database tree
-2843935
-ejnOMCSxr+8zC92VInRYmU8Jw8Z/msqUO3bevbGjy+4=
+2869590
+90e2ojr3ilpcIzJvE1yz9XjtyoCYnkNsQipSeP0uvzI=
 
-— sum.golang.org Az3grsiTh0a8YfIUGMQBNrxZg6BQFmDTUr+BPsbZiDtuKOtbvgcs8rePjtfv6R1+DYtC3QD9vB7JO9m3+DKK3jlkgAA=
+— sum.golang.org Az3grgN3UbToa4V61Bza9yS0YAYigVq5ZgbImVkbifLF5lgF9A9IVCRN5GtyeHmlxdzhVxvbysD6+c7jW+ykG/2x8go=

@@ -3,7 +3,7 @@ github.com/juju/loggo v0.0.0-20180524022052-584905176618 h1:MK144iBQF9hTSwBW/9eJ
 github.com/juju/loggo v0.0.0-20180524022052-584905176618/go.mod h1:vgyd7OREkbtVEN/8IXZe5Ooef3LQePvuBm9UWj6ZL8U=
 
 go.sum database tree
-2839577
-e4YVbjKrH4dGU0dVUNG81E3DG5IHcA4pDtlwCIuu+m0=
+2868742
+38w1OqWBWzgdOVDuiMy2QEi8p8nOm3rSdi+hYzfkdHE=
 
-— sum.golang.org Az3grkXQFFwGjEfSwc8U5OvApDGU0vyC6PGdx+FvqqIB8iAI8EYOmA1OzcfUTOTPG0BoV7Q2zTIutLObKInOEystpwI=
+— sum.golang.org Az3grnIMHY6WZlznHQk7xspfj8/w1MnWRcwK4EwsUZvlay3DxtNujKhxOzAXqYDSRnnRBAYxeaioITC22Y7vMOu0NQ8=

@@ -3,7 +3,7 @@ github.com/siddontang/goredis v0.0.0-20150324035039-760763f78400 h1:091wFNQB3PXc
 github.com/siddontang/goredis v0.0.0-20150324035039-760763f78400/go.mod h1:DDcKzU3qCuvj/tPnimWSsZZzvk9qvkvrIL5naVBPh5s=
 
 go.sum database tree
-2843935
-ejnOMCSxr+8zC92VInRYmU8Jw8Z/msqUO3bevbGjy+4=
+2870810
+YSSz4HyjHwaTvitJo+I54BV6YlCfUBmOVMd0Uk1ZDvk=
 
-— sum.golang.org Az3grsiTh0a8YfIUGMQBNrxZg6BQFmDTUr+BPsbZiDtuKOtbvgcs8rePjtfv6R1+DYtC3QD9vB7JO9m3+DKK3jlkgAA=
+— sum.golang.org Az3grrTycVy2vpvkHZt0juQMs8rRNcfbQ8n8lXxnx65tVf0oan7DhNh/9KtN59EXgNSrQb0VDZu/nZUjEusV4GHwRgA=

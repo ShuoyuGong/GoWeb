@@ -3,7 +3,7 @@ github.com/syndtr/goleveldb v0.0.0-20181127023241-353a9fca669c h1:3eGShk3EQf5gJC
 github.com/syndtr/goleveldb v0.0.0-20181127023241-353a9fca669c/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
 
 go.sum database tree
-2839094
-KVVpa7ezi+asQb+jHuk273nMtsSg8VSOfZKDtNywMrE=
+2861166
+MExP7F5nMGQLtpo7qFzsyftuRT7VsNyzDFkpH17e03w=
 
-— sum.golang.org Az3grs83/ouk02CLNq6e2I4qElrAcEijlpBJ370KoywBnsKGLHck7SVGT/P+lvRPnQybOZsE1oaksx8qGx1Q1sMMqA0=
+— sum.golang.org Az3grgr1OS7/mHnaChi63FnqFWxam/fukgP2Yvc9hkFn/ZVhVb9rq7E/rG+IG8SSX4mP8IcIaeW7tTwvSIG2uMdvGwA=

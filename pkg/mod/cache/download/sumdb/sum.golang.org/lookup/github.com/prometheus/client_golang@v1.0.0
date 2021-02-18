@@ -3,7 +3,7 @@ github.com/prometheus/client_golang v1.0.0 h1:vrDKnkGzuGvhNAL56c7DBz29ZL+KxnoR0x
 github.com/prometheus/client_golang v1.0.0/go.mod h1:db9x61etRT2tGnBNRi70OPL5FsnadC4Ky3P0J6CfImo=
 
 go.sum database tree
-2837316
-NL6cls2I+bcQz767lg6O/7lEPNN3lHeJRDcRYflDtwo=
+2858867
+l5fVkuJ4KIcqLM2+pt2nnX9ZZxWVfSQhRu8eAWsCrlU=
 
-— sum.golang.org Az3grtrsHVo26Owj/nJkOv6xBR8COF/aJpHw7F7/eSzfGTd2fKdjA9f6ZZC7equgb6njaQDho65HPRbCrgYFLsQZPwA=
+— sum.golang.org Az3grkyohU5zeI8AzdptQIAvqoib/fRNWVcvuWWhqkLAdulMZCIAnHT5I7nrqQXC9kXWf96BX3X6D8o0Y1eOTtVTHgY=
