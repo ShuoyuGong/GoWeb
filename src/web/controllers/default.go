@@ -10,6 +10,6 @@ type MainController struct {
 
 func (this *MainController) Get() {
 
-	this.TplName = "index.html"
+	this.TplName = "home/index/index.html"
 
 }
