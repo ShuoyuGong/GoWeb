@@ -1,7 +1,6 @@
 package controllers
 
 import (
-	"fmt"
 	beego "github.com/beego/beego/v2/server/web"
 )
 
@@ -16,6 +15,11 @@ func (this *LoginController) Get() {
 
 // 处理登陆请求
 func (this *LoginController) Post() {
-	fmt.Sprint(this.Input())
+	uname := this.GetString("account")
+	//upwd := this.GetString("password")
+	//autoLogin := this.GetString("autoLogin") == "on"
+	if uname == beego.AppConfig.String("appname") {
+
+	}
 	return
 }
