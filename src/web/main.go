@@ -12,7 +12,7 @@ import (
 
 func init() {
 	orm.RegisterDriver("mysql", orm.DRMySQL)
-	orm.RegisterDataBase("default", "mysql", "root:1763034gong@/default?charset=utf8")
+	orm.RegisterDataBase("default", "mysql", "root:1763034gong@tcp(127.0.0.1:3306)/beego?charset=utf8")
 }
 func main() {
 	orm.Debug = true

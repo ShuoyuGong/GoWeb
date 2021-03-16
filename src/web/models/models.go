@@ -30,7 +30,13 @@ type Topic struct {
 	ReplayLastUserId int64
 }
 
+type User struct {
+	Id       int64
+	UserName string
+	Password string
+}
+
 func init() {
 	// 需要在init中注册定义的model
-	orm.RegisterModel(new(Category), new(Topic))
+	orm.RegisterModel(new(Category), new(Topic), new(User))
 }
