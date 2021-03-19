@@ -1,7 +1,6 @@
 package controllers
 
 import (
-	"fmt"
 	beego "github.com/beego/beego/v2/server/web"
 )
 
@@ -16,30 +15,20 @@ func (this *LoginController) Get() {
 
 // 处理登陆请求
 func (this *LoginController) Post() {
-	//var uname string
-	//var upwd string
-	//uname = this.GetString("account")
-	//upwd = this.GetString("password")
-
+	uname := this.GetString("account")
+	upwd := this.GetString("password")
+	autoLogin := this.GetString("autoLogin") == "on"
 	conf_uname, _ := beego.AppConfig.String("uanme")
-	this.Ctx.WriteString(fmt.Sprint(conf_uname))
+	conf_pwd, _ := beego.AppConfig.String("upwd")
+	if uname == conf_uname && upwd == conf_pwd {
+		maxAge := 0
+		if autoLogin {
+			maxAge = 1<<31 - 1
+		}
+		this.Ctx.SetCookie("uname", uname, maxAge, "/")
+		this.Ctx.SetCookie("upwd", upwd, maxAge, "/")
+	}
 
-	//o := orm.NewOrm()
-	//res := o.Raw("SELECT * FROM user where user_name = ? AND password = ?", uname, upwd)
-	//o := orm.NewOrm()
-	//var qs orm.QuerySeter
-	//qs = o.QueryTable("user")
-	//if beego.AppConfig.String("uname") == uname {
-	//}
-	//this.Ctx.WriteString(uname)
-	//this.Ctx.WriteString(upwd)
-	//var conf_uname string
-	//conf_uname = beego.AppConfig.String("uname")
-	//fmt.Println(beego.AppConfig.String("uname"))
-
-	//autoLogin := this.GetString("autoLogin") == "on"
-	//if uname == beego.AppConfig.String("appname") {
-
-	//}
+	this.Redirect("/", 301)
 	return
 }
